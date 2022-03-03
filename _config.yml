@@ -3,8 +3,8 @@ logo: "/images/small_profile_img.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Currently MSc student in Applied Data Science at University of Gothenburg. I am writing my Master's thesis about improving deep learning networks in Industry 4.0.
   <br><br>
-#  Second description 
-#  <br><br>
+  Second description 
+  <br><br>
   <a href="https://www.linkedin.com/in/karl-griphammar-4a4690228">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
