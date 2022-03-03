@@ -1,1 +1,1 @@
-To be updated.
+Temporary portfolio for Karl Griphammar.
