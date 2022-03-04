@@ -2,12 +2,12 @@
 
 ---
 
-### Category Name 1 
+### NLP projects 
 
 [Generating news summaries using NLP](https://github.com/Kawrl/news_generator/blob/main/controllable_text_generation.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-
+### To be updated soon!
 
 
 ---
