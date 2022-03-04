@@ -5,7 +5,7 @@
 ### NLP projects 
 
 [Generating news summaries using NLP](https://github.com/Kawrl/news_generator/blob/main/controllable_text_generation.ipynb)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/rishabh-sharma-R-js25Pv1LQ-unsplash.jpg?raw=true"/>
 
 ### To be updated soon!
 
